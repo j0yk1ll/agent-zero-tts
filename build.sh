@@ -1,0 +1,1 @@
+docker build -t a0-tts:local --no-cache  .
